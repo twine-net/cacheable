@@ -1,5 +1,5 @@
 {
-    "name": "pulkitjalan/cacheable",
+    "name": "twine-net/cacheable",
     "description": "Automatically cache Eloquent models using the find methods",
     "homepage": "https://github.com/pulkitjalan/cacheable",
     "keywords": ["laravel", "cache", "eloquent"],
